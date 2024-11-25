@@ -25,6 +25,7 @@ Here are some examples of the files you'll find in this repository:
 4. **Game Play Analysis III** - Medium  
 5. **Game Play Analysis IV** - Medium  
 6. **Trips and Users** - Hard
+
  ---- and many more
 
 Each file contains both the SQL queries to solve the problem and any additional notes or explanations where applicable.
